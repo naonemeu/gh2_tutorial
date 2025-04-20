@@ -1,0 +1,23 @@
+phrase_start
+phrase_end
+verse
+chorus
+solo
+music_start
+lighting ()
+lighting (color1)
+lighting (color2)
+lighting (flare)
+lighting (strobe)
+lighting (sweep)
+lighting (chase)
+lighting (blackout)
+band_jump
+half_tempo
+normal_tempo
+double_tempo
+crowd_lighters_slow
+crowd_lighters_fast
+crowd_half_tempo
+crowd_double_tempo
+crowd_normal_tempo
