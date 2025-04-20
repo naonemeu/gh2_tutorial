@@ -1,0 +1,37 @@
+main
+[play]
+[idle]
+[half_tempo]
+[normal_tempo]
+[double_tempo]
+ 
+guitar
+[play]
+[idle]
+[wail_on]
+[wail_off]
+[solo_on]
+[solo_off]
+[sync_wag]
+[sync_head_bang]
+ 
+drum
+[play]
+[idle]
+[nobeat]
+[allbeat]
+[half_time]
+[double_time]
+ 
+fretmap
+[map HandMap_Default]
+[map HandMap_Linear]
+[map HandMap_NoChords]
+[map HandMap_AllChords]
+[map HandMap_DropD]
+[map HandMap_DropD2]
+[map HandMap_Solo]
+[map StrumMap_Default]
+[map StrumMap_punk]
+[map StrumMap_softpick]
+[map StrumMap_SlapBass]
